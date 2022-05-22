@@ -1,0 +1,5 @@
+1. [*.{js,css,less,scss,vue}]
+	indent_size = 2    -> editorconfig
+2. npm init vite vue
+3. npm install -S vuex@next
+4. 
